@@ -114,7 +114,7 @@ p {
 .hero {
   background-color: var(--primary-bg-color);
 }
-.hero .content {
+.hero .container {
   text-align: center;
 }
 .master-header {
